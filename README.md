@@ -17,7 +17,7 @@ To simulate enterprise-grade security software, this project is decoupled into t
 * **Model Serialization:** `joblib`
 
 ## Dataset
-This model is configured to train on modern cybersecurity datasets such as ***NSL-KDD**. It processes numerical network features including connection durations, byte transfers, and protocol error rates.
+This model is configured to train on modern cybersecurity datasets such as **NSL-KDD**. It processes numerical network features including connection durations, byte transfers, and protocol error rates.
 
 ## How to Run Locally
 
